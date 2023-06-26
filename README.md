@@ -17,8 +17,6 @@ I am driven by a strong passion for innovation and staying up-to-date with the l
 👨‍💻 Collaborative Team Player:
 Throughout my career, I have proven myself to be a reliable team player, fostering effective collaboration and driving projects towards success. I excel at communicating complex technical concepts to both technical and non-technical stakeholders, ensuring seamless coordination and alignment of goals.
 
-🎯 Seeking New Challenges:
-I am currently open to exciting career opportunities where I can apply my expertise in building world-class OTT platforms and contribute to innovative projects. If you're looking for a dedicated Senior Software Developer with a passion for frontend technologies, let's connect!
 
 📬 Feel free to reach out to me through email or LinkedIn. Let's discuss how we can create remarkable streaming experiences together!
 
